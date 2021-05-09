@@ -1,6 +1,6 @@
 ProcChat
 
-1. localised char server that will support a number of clients through named pipes(FIFOs)
+1. localised chat server that will support a number of clients through named pipes(FIFOs)
 	1. The server and client applications will communicate through a fixed sized binary protocol.
 	2. The server will manage a global named pipe for establishing connections,
 	    after a connection has bee established,
