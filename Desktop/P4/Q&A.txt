@@ -1,6 +1,0 @@
-Ed Q&A
-
-
-1. To spawn a client handler: fork it and move it to its own handler.
-2. only need to use pipes.
-3. 
